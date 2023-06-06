@@ -1,4 +1,4 @@
-package com.javatpoint.springbootapplicationrun;
+package Model;
 
 
 
